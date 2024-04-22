@@ -1,8 +1,8 @@
 # InternCareer-Task-1-YouTube-Streamer-Analysis
-## Description
+# Description
 This project aims to perform a comprehensive analysis of the top YouTube content creators using the "Top 1000 Youtubers statistics" dataset. The dataset contains valuable information about the ranking, categories, subscribers, country, visits, likes, comments, and more for the top YouTube streamers. The analysis includes data exploration, trend analysis, audience study, performance metrics calculation, content category exploration, brand and collaboration analysis, benchmarking, and content recommendations.
 
-## Tools and Libraries Used
+# Tools and Libraries Used
 - Python: Programming language used for data analysis and visualization.
 - Jupyter Notebook: Interactive computing environment used for analysis.
 - Pandas: Python library for data manipulation and analysis.
@@ -11,7 +11,8 @@ This project aims to perform a comprehensive analysis of the top YouTube content
 - Seaborn: Python library for statistical data visualization.
 - scikit-learn: Python library for machine learning and data mining.
 - Markdown: Lightweight markup language used for formatting README and documentation.
-- Objectives
+
+# Objectives
   
 ### Data Exploration:
 * Explore the dataset to understand its structure and identify key variables.
